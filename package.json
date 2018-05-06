@@ -40,5 +40,5 @@
     "type": "git",
     "url": "git+https://github.com/levensailor/node-cisco-ris.git"
   },
-  "version": "1.0.3"
+  "version": "1.0.6"
 }
